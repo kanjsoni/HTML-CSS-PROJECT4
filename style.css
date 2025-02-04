@@ -12,6 +12,8 @@ body{
     max-width: 100%;
 }
 .navbar{
+    margin-left: 2rem;
+    margin-right: 3rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -21,4 +23,18 @@ body{
 }
 .navbar img{
     height: 2rem;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 900;
+    gap: 3rem;
+    list-style: none;
+    color: grey;
+}
+.list-item:nth-child(1){
+    color: white;
 }
