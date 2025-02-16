@@ -85,9 +85,5 @@ body{
 }
 
 .bimg{
-    align-items: flex-end;
-    margin-top: 2.4rem;
-    margin-bottom: 0px;
-    height: 200px;
-    width: 1280px;
+    height: 600px;
     }
