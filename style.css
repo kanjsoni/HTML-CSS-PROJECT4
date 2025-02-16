@@ -86,4 +86,5 @@ body{
 
 .bimg{
     height: 600px;
+    align-item: flex-end;
     }
